@@ -2,6 +2,7 @@ This file works for Cisco devices and Extreme Networks VSP and ERS devices.
 
 DISCLAIMER: I was not the original author of this syntax file. I found it on Reddit and modified it so that it works also for Extreme Networks devices.
 
+
 Installing:
 
 - Hit Windows button and type "Run"
